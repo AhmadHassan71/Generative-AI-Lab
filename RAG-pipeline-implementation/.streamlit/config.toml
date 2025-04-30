@@ -1,0 +1,12 @@
+[server]
+enableStaticServing = true
+enableCORS = false
+enableXsrfProtection = false
+
+[runner]
+# Turns off the file watcher to avoid PyTorch custom classes error
+fastReruns = false
+watchFileSystem = false
+
+[browser]
+gatherUsageStats = false

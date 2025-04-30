@@ -1,0 +1,25 @@
+name: rag_env
+channels:
+  - conda-forge
+dependencies:
+  - python=3.9
+  - pip
+  - pip:
+      - pdfplumber
+      - pymupdf          # aka fitz
+      - pillow
+      - pytesseract
+      - sentence-transformers
+      - transformers
+      - faiss-cpu
+      - chromadb
+      - langchain
+      - openai
+      - streamlit
+      - numpy
+      - scikit-learn
+      - nltk
+      - rouge-score
+      - matplotlib
+      - qdrant-client
+      - python-dotenv

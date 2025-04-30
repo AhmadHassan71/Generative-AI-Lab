@@ -1,0 +1,27 @@
+[
+  {
+    "query_id": "q1",
+    "query": "What is the vision of FAST-NUCES?",
+    "reference": "To produce world-class professionals, who are responsible citizens and good human beings."
+  },
+  {
+    "query_id": "q2",
+    "query": "How many campuses does FAST-NUCES have?",
+    "reference": "FAST-NUCES has five campuses located in Karachi, Lahore, Islamabad, Peshawar, and Chiniot-Faisalabad."
+  },
+  {
+    "query_id": "q3",
+    "query": "What are the undergraduate programs offered at FAST-NUCES?",
+    "reference": "FAST-NUCES offers various undergraduate programs including Bachelor of Business Administration, Bachelor of Science in Accounting & Finance, Artificial Intelligence, Business Analytics, Civil Engineering, Computer Science, Cyber Security, Data Science, Electrical Engineering, Financial Technologies, and Software Engineering."
+  },
+  {
+    "query_id": "q4",
+    "query": "What is the mission of FAST-NUCES?",
+    "reference": "The mission is to identify and attract promising students from diverse communities to shape into visionary leaders and professionals; to provide quality education regardless of financial background, ethnicity, gender, or religion; and to promote research and scholarly activities to generate knowledge."
+  },
+  {
+    "query_id": "q5",
+    "query": "When was the 76th Convocation of FAST-NUCES held?",
+    "reference": "The 76th Convocation of the University was held on November 19, 2023 at the Chiniot-Faisalabad Campus."
+  }
+]
